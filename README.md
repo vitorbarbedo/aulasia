@@ -1,6 +1,6 @@
 
 
-O script é uma implementação do jogo da velha em Python, com uma interface gráfica criada usando a biblioteca Tkinter. O jogo permite que um jogador humano jogue contra um computador que utiliza o algoritmo Minimax com poda alfa-beta para tomar decisões.
+O script é uma implementação do jogo da velha em Python com a ajuda do chatgbt, com uma interface gráfica criada usando a biblioteca Tkinter. O jogo permite que um jogador humano jogue contra um computador que utiliza o algoritmo Minimax com poda alfa-beta para tomar decisões.
 
 Aqui está uma descrição detalhada do funcionamento do script:
 
