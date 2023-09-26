@@ -1,0 +1,2 @@
+# aulasia
+Algoritmos UC IA 
